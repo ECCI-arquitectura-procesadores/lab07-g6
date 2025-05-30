@@ -2,7 +2,13 @@
 # lab07 - Procesador
 
 ## Integrantes
+[RICARDO ANDRES MERCHAN CARREÑO](https://github.com/Andresm9871)
 
+[ANDRES FELIPE ROMERO IBAÑEZ](https://github.com/AndresitoTuRey)
+
+[CLAUDIA XIMENA COLMENARES MESTIZO](https://github.com/CXCM123)
+
+[JUAN DAVID VELASCO SARMIENTO](https://github.com/juanDvelasco1013)
 
 ## Documentación
 
