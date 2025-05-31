@@ -130,3 +130,5 @@ Cómo conectar el puerto serie de la FPGA a tu PC, configurar velocidad (baud ra
 
 
 ## Evidencias
+
+<video controls src="FUNCIONAMIENTO_LAB7.mp4" title="Title"></video>
