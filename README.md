@@ -127,12 +127,12 @@ Por ejemplo: agregar un temporizador, un botón, un sensor, etc.
 Ver datos UART en PuTTY o Tera Term
 Cómo conectar el puerto serie de la FPGA a tu PC, configurar velocidad (baud rate) y ver el mensaje enviado por el SoC.
 
-
-
 ## Evidencias
 
-![alt text][def]
-
-[def]: image.png
 
 
+[alt text][imagen-1.png]
+
+
+
+[imagen-1.png]: image-1.png
